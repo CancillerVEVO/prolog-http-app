@@ -6,7 +6,7 @@
 2. **Clonar el repositorio:**
    - Clona este repositorio en tu máquina local usando Git:
      ```
-     git clone <URL_del_repositorio>
+     git clone https://github.com/CancillerVEVO/prolog-http-app.git
      ```
 
 3. **Ejecutar el programa:**
