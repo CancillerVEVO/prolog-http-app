@@ -1,7 +1,5 @@
 # prolog-http-app
 
-## Para correr el código
-
 1. **Instalar SWI-Prolog:**
    - Se necesita un compilador de Prolog para ejecutar este programa. Puedes descargar e instalar SWI-Prolog desde su sitio web oficial: [https://www.swi-prolog.org/](https://www.swi-prolog.org/)
 
